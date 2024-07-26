@@ -5,7 +5,7 @@ Analysis of marks of Students of RMS School along with contact information and o
 Excel
 
 Feature Used:
-Vlookup
-Drop-down
-Filter
+Vlookup,
+Drop-down,
+Filter and 
 Slicer

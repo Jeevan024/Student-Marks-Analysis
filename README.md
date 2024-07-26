@@ -3,8 +3,8 @@ Analysis of marks of Students of RMS School along with contact information and o
 
 **Tools used**
 Excel
-**
-Feature Used**
+
+Feature Used
 Vlookup
 Drop-down
 Filter
